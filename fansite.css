@@ -1,4 +1,46 @@
 #welcome{
   font-size: 48px;
   color: rgb(88, 196, 234);
+  
 }
+* {
+  background-color: #eeeeee;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #222222;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #999997
+}
+
+p {
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #000000
+}
+
+button {
+  background-color: #006400;
+  border: solid  1px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+ footer {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  }
